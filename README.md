@@ -2,7 +2,7 @@
 <<<<<<< HEAD
 The Grand Library
 
-Carl Andreas Arnegard / Windows 11 /
+Carl Andreas Arnegard Windows 11
 CarlAndreasArnegard
 =======
 The Grand Library
