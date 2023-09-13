@@ -1,2 +1,2 @@
 # TGL
-The Grand Librarry
+The Grand Library
